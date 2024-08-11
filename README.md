@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/gowrishankkar/Leetcode-Solutions-2024/tree/master/0782-jewels-and-stones) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/gowrishankkar/Leetcode-Solutions-2024/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
